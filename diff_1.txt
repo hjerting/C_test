@@ -1,0 +1,4 @@
+3c3
+< 1 is prime
+---
+> 1 is not prime
